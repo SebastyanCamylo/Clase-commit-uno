@@ -1,0 +1,31 @@
+.card{
+    width: 90%;
+    margin: auto;
+    padding: 1rem;
+    border: 1%;
+     
+}
+.card-img-top{
+    width: 100%;
+    justify-content: center;
+    border: 14px;
+    margin: auto;
+    
+}
+.card-body{
+    border-bottom: 1px solder #ccc;
+    
+}
+.fs-7{
+    font-size: 0.7rem;
+    border: 0;    
+}    
+.text-numer{
+    padding: 1rem;
+    margin: 1px;
+    align-content: center;
+}
+.card-img-top{
+    flex: auto;
+    justify-content: end;
+}
